@@ -6,10 +6,11 @@ C:\Users\roshka\source\repos\Blog.Engine.Base\Blog.Engine.Base\obj\Debug\Blog.En
 C:\Users\roshka\source\repos\Blog.Engine.Base\Blog.Engine.Base\obj\Debug\Blog.Engine.Base.pdb
 C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\bin\Debug\Blog.Engine.Base.dll
 C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\bin\Debug\Blog.Engine.Base.pdb
-C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\obj\Debug\Blog.Engine.Base.csprojAssemblyReference.cache
 C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\obj\Debug\Blog.Engine.Base.csproj.CoreCompileInputs.cache
 C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\obj\Debug\Blog.Engine.Base.dll
 C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\obj\Debug\Blog.Engine.Base.pdb
 C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\bin\Debug\NLog.dll
 C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\bin\Debug\NLog.xml
 C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\obj\Debug\Blog.Engine.Base.csproj.CopyComplete
+C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\bin\Debug\Newtonsoft.Json.dll
+C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\bin\Debug\Newtonsoft.Json.xml
