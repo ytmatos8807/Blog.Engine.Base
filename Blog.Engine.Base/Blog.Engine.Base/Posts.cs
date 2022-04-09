@@ -52,5 +52,10 @@ namespace Blog.Engine.Base
         [DataMember]
         public DateTime DatePosts { get; set; }
 
+        /// <summary>
+        /// Identifica si una publicacion esta bloqueada o no (S/N)
+        /// </summary>
+        public string Blocked { get; set; }
+
     }
 }

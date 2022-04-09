@@ -14,3 +14,4 @@ C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.B
 C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\obj\Debug\Blog.Engine.Base.csproj.CopyComplete
 C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\bin\Debug\Newtonsoft.Json.dll
 C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\bin\Debug\Newtonsoft.Json.xml
+C:\Users\roshka\Documents\GitHub\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\obj\Debug\Blog.Engine.Base.csprojAssemblyReference.cache

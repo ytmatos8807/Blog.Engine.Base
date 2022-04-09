@@ -52,11 +52,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommentData.cs" />
+    <Compile Include="EnumActionsPosts.cs" />
+    <Compile Include="EnumRoles.cs" />
     <Compile Include="EnumStatePosts.cs" />
     <Compile Include="Error.cs" />
     <Compile Include="ErrorFactory.cs" />
     <Compile Include="Posts.cs" />
     <Compile Include="PostsData.cs" />
+    <Compile Include="ProcessPostsResponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Result.cs" />
     <Compile Include="ResultState.cs" />
