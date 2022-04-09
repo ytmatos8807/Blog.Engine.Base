@@ -23,16 +23,10 @@ namespace Blog.Engine.Base
         public string Status { get; set; }
 
         /// <summary>
-        ///Lista de  Id de los comentarios
-        /// </summary>
-        [DataMember]
-        public List<Int32> CommentId { get; set; }
-
-        /// <summary>
         ///Cantidad de comentarios de la publicacion
         /// </summary>
         [DataMember]
-        public Int32 CountComment { get; set; }
+        public Int32 AmountComment { get; set; }
 
         /// <summary>
         ///Titulo de la publicacion
