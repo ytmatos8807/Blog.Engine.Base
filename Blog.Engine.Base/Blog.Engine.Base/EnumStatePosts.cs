@@ -14,6 +14,7 @@ namespace Blog.Engine.Base
         Published,
         Submitted,
         PendingApproval,
-        Pending
+        Pending,
+        Reject
     }
 }
